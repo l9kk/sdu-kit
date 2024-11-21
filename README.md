@@ -54,8 +54,8 @@ A modern, fully functional forum web application that allows users to interact w
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd forum-website
+   git clone <https://github.com/l9kk/sdu-kit>
+   cd sdu-kit
    ```
 
 2. **Setup**:
